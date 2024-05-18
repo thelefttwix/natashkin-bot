@@ -1,1 +1,1 @@
-# natashkin-bot-yahoo
+# natashkin-bot
